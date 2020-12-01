@@ -1,2 +1,2 @@
 Utility version of git 2.0
-VERSION 2.0
+VERSION 3
